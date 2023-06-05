@@ -4,8 +4,6 @@
 
 ### Biscoito da Sorte é um jogo no qual o usuário, a partir de um clique ou enter, abre um biscoito com a sua sorte do dia.
 
-</br>
-
 #### Projeto desenvolvido no nível 05 do programa de formação Explorer da Rocketseat.
 
 </br>
